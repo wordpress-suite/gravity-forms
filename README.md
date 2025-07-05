@@ -1,6 +1,3 @@
----
-title: Blogging Like a Hacker
----
 # 📝 Gravity Forms Pro – Free Download
 
 ![WordPress Gravity Forms Banner](https://github.com/wordpress-suite/gravity-forms/blob/main/gravity_forms_banner.jpg?raw=true)
